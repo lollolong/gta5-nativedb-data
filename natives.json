@@ -59154,6 +59154,15 @@
 			"return_type": "void",
 			"build": "3258"
 		},
+		"0x28123C8B056CC8AA": {
+			"name": "IS_OBJECT_REASSIGNMENT_IN_PROGRESS",
+			"jhash": "",
+			"comment": "",
+			"params": [],
+			"return_type": "BOOL",
+			"build": "3274",
+			"unused": true
+		},
 		"0x77758139EC9B66C7": {
 			"name": "USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR",
 			"jhash": "0x4DD46DAE",
